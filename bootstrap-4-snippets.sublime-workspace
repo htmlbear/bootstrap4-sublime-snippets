@@ -1,0 +1,2231 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lgo",
+				"logCars"
+			],
+			[
+				"int",
+				"intval"
+			],
+			[
+				"befor",
+				"insertBefore"
+			],
+			[
+				"sec",
+				"section_prev"
+			],
+			[
+				"roms",
+				"roomsHTML"
+			],
+			[
+				"rom",
+				"roomHTML"
+			],
+			[
+				"rooms",
+				"roomsHTML"
+			],
+			[
+				"on",
+				"onreadystatechange"
+			],
+			[
+				"list",
+				"listUl"
+			],
+			[
+				"atc",
+				"aatachListItemsButtons"
+			],
+			[
+				"ch",
+				"children\t.children()"
+			],
+			[
+				"text",
+				"textContent"
+			],
+			[
+				"inser",
+				"insertBefore\t.insertBefore()"
+			],
+			[
+				"tex",
+				"textContent"
+			],
+			[
+				"tog",
+				"toggleList"
+			],
+			[
+				"get",
+				"getElementsByTagName"
+			],
+			[
+				"stud",
+				"students"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"im",
+				"images/"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"p",
+				"production/"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"fs",
+				"font-size"
+			],
+			[
+				"ser",
+				"services.php"
+			],
+			[
+				"gettempla",
+				"get_template_directory"
+			],
+			[
+				"se",
+				"services.php"
+			],
+			[
+				"getemla",
+				"get_template_part"
+			],
+			[
+				"thepost",
+				"the_post"
+			],
+			[
+				"pa",
+				"part/"
+			],
+			[
+				"fd",
+				"feedcarousel.php"
+			],
+			[
+				"get_tem",
+				"get_template_part"
+			],
+			[
+				"theconte",
+				"the_content"
+			],
+			[
+				"thecon",
+				"the_content"
+			],
+			[
+				"getcate",
+				"get_category_link"
+			],
+			[
+				"reigs",
+				"register_sidebar\tregister_sidebar All Options"
+			],
+			[
+				"category",
+				"category_link"
+			],
+			[
+				"thloop",
+				"theloop\tThe Loop"
+			],
+			[
+				"gethea",
+				"get_header"
+			],
+			[
+				"the",
+				"the_excerpt"
+			],
+			[
+				"if",
+				"ifelse\tif … else …"
+			],
+			[
+				"regisid",
+				"register_sidebars"
+			],
+			[
+				"regiswi",
+				"register_sidebar_widget"
+			],
+			[
+				"registerw",
+				"register_widget"
+			],
+			[
+				"re",
+				"ready\tjQuery(document).ready"
+			],
+			[
+				"regme",
+				"register_nav_menu"
+			],
+			[
+				"wpna",
+				"wp_nav_menu\twp_nav_menu All Options"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"toggle",
+				"toggleClass\t.toggleClass()"
+			],
+			[
+				"cont",
+				"container\t main.scss"
+			],
+			[
+				"secti",
+				"section-black\t main.scss"
+			],
+			[
+				"co",
+				"col-xs-12\t main.scss"
+			],
+			[
+				"colmd",
+				"col-md-6\t main.scss"
+			],
+			[
+				"ic",
+				"icn2.svg"
+			],
+			[
+				"texc",
+				"text-center\t main.css"
+			],
+			[
+				"1",
+				"img-serv1.jpg\tw:270 h:388"
+			],
+			[
+				"gi",
+				"picogirl2.jpg\tw:1580 h:1046"
+			],
+			[
+				"bga",
+				"background-image"
+			],
+			[
+				"f",
+				"fonts/"
+			],
+			[
+				"col-s",
+				"col-sm-6\t main.css"
+			],
+			[
+				"lg",
+				"picosure-logo.svg"
+			],
+			[
+				"texce",
+				"text-center-sm\t main.scss"
+			],
+			[
+				"cat-r",
+				"cart-row\t main.scss"
+			],
+			[
+				"hid",
+				"hidden-md\t main.css"
+			],
+			[
+				"hiddem",
+				"hidden-sm\t main.css"
+			],
+			[
+				"logo",
+				"logo-footer.png\tw:60 h:13"
+			],
+			[
+				"col-lg1",
+				"col-lg-10\t main.css"
+			],
+			[
+				"ib",
+				"ib-1.png\tw:112 h:103"
+			],
+			[
+				"inli",
+				"visible-lg-inline\t main.css"
+			],
+			[
+				"galle",
+				"galley-thumb\t main.scss"
+			],
+			[
+				"regipo",
+				"register_post_type\tRegister Post Type All Options"
+			],
+			[
+				"regsideba",
+				"register_sidebars"
+			],
+			[
+				"get_hea",
+				"get_header"
+			],
+			[
+				"t",
+				"title\tAttr"
+			],
+			[
+				"lis",
+				"list-group-item-text\t main.css"
+			],
+			[
+				"tablr",
+				"table-bordered\t main.css"
+			],
+			[
+				"page",
+				"page-title\t main.css"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"this",
+				"this\t$(this)"
+			],
+			[
+				"th",
+				"this\t$(this)"
+			],
+			[
+				"attr",
+				"attr\t.attr() - single"
+			],
+			[
+				"dos",
+				"do_shortcode"
+			],
+			[
+				"btn",
+				"btn-lg\t main.scss"
+			],
+			[
+				"text-ce",
+				"text-center-sm\t main.scss"
+			],
+			[
+				"h",
+				"dog-hundr-2.jpg\tw:739 h:504"
+			],
+			[
+				"do",
+				"dog-hund.jpg\tw:361 h:388"
+			],
+			[
+				"ti",
+				"forum_title\t main.scss"
+			],
+			[
+				"panel",
+				"panel-with-padding\t main.scss"
+			],
+			[
+				"panel-bo",
+				"panel-body\t main.scss"
+			],
+			[
+				"ad",
+				"123ad.jpg\tw:727 h:90"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"tit",
+				"simple-title\t main.scss"
+			],
+			[
+				"img",
+				"img-circle\t main.scss"
+			],
+			[
+				"ea",
+				"each\t.each()"
+			],
+			[
+				"each",
+				"each\t$.each()"
+			],
+			[
+				"simp",
+				"simple-title\t main.scss"
+			],
+			[
+				"big-",
+				"big-title\t main.scss"
+			],
+			[
+				"big",
+				"big-title\t main.scss"
+			],
+			[
+				"g",
+				"gipote-annonce-inner.html"
+			],
+			[
+				"log",
+				"logo-footer.png\tw:19 h:19"
+			],
+			[
+				"pul",
+				"pull-right\t bootstrap-select.min.css"
+			],
+			[
+				"red",
+				"ready\tjQuery(document).ready"
+			],
+			[
+				"boo",
+				"bootstrap-select.js"
+			],
+			[
+				"thecatgo",
+				"get_the_category"
+			],
+			[
+				"thecn",
+				"the_content"
+			],
+			[
+				"cl",
+				"class\tAttr"
+			],
+			[
+				"shor",
+				"add_shortcode"
+			],
+			[
+				"add",
+				"addClass\t.addClass()"
+			],
+			[
+				"ma",
+				"mans.png\tw:1495 h:940"
+			],
+			[
+				"colx-12",
+				"col-xs-12\t _responsive.scss"
+			],
+			[
+				"clo",
+				"closest\t.closest()"
+			],
+			[
+				"not",
+				"bootstrap-notify.min.js"
+			],
+			[
+				"ja",
+				"javascripts/"
+			],
+			[
+				"r",
+				"row\t main.scss"
+			],
+			[
+				"ra",
+				"radio-success\t _controls.scss"
+			],
+			[
+				"col-xs",
+				"col-xs-6\t main.scss"
+			],
+			[
+				"te",
+				"text-right\t main.scss"
+			],
+			[
+				"styles",
+				"stylesheet\t(stylesheet.css)"
+			],
+			[
+				"learning",
+				"learning_title\t(tmpl-prestashop.php)"
+			],
+			[
+				"blgo",
+				"bloginfo"
+			],
+			[
+				"clea",
+				"clearfix\t bootstrap.min.css"
+			],
+			[
+				"theti",
+				"the_title"
+			],
+			[
+				"medai",
+				"@media\t@media ${1:screen} {\n\t${0}\n}"
+			],
+			[
+				"tme",
+				"template_directory"
+			],
+			[
+				"wi",
+				"width_gr"
+			],
+			[
+				"wid",
+				"width_gr"
+			],
+			[
+				"witd",
+				"width"
+			],
+			[
+				"appe",
+				"append\t.append()"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "bs4-accordion.sublime-snippet",
+			"settings":
+			{
+				"buffer_size": 3478,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/SASS Build/SASS - Compressed.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"buti",
+				"Javascript Beautify"
+			],
+			[
+				"btn",
+				"Snippet: bs4-btn-block"
+			],
+			[
+				"be",
+				"Javascript Beautify"
+			],
+			[
+				"beu",
+				"PHP CodeBeautifier"
+			],
+			[
+				"fr1",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"f",
+				"Snippet: fakeimg"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"gr",
+				"Set Syntax: Git Rebase Todo"
+			],
+			[
+				"fr",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"Html",
+				"Set Syntax: HTML"
+			],
+			[
+				"htlml",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"so",
+				"Sort Lines"
+			],
+			[
+				"size",
+				"Snippet: media_size"
+			],
+			[
+				"sei",
+				"Emmet: Select Next Item"
+			],
+			[
+				"re",
+				"Paste Repeater"
+			],
+			[
+				"mo",
+				"Snippet: bs3-modal"
+			],
+			[
+				"btndef",
+				"Snippet: bs3-button-default"
+			],
+			[
+				"get",
+				"Tag: Get CSS Classes"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"repe",
+				"Paste Repeater"
+			],
+			[
+				"proj",
+				"Project: Save As"
+			],
+			[
+				"doem",
+				"Snippet: changeDomen"
+			],
+			[
+				"chan",
+				"Snippet: changeDomen"
+			],
+			[
+				"moad",
+				"Snippet: bs3-modal"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"trans",
+				"Yandex Translate selected text"
+			],
+			[
+				"",
+				"Convert Case: Lower Case"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"new",
+				"Snippet: newwpquery"
+			],
+			[
+				"comm",
+				"Snippet: Idiomatic CSS - Section Comment Block"
+			],
+			[
+				"com",
+				"Snippet: Idiomatic CSS - Section Comment Block"
+			],
+			[
+				"commen",
+				"Snippet: Comment - HTML comment"
+			],
+			[
+				"mod",
+				"Snippet: bs3-modal"
+			],
+			[
+				"COMM",
+				"Snippet: Idiomatic CSS - Section Comment Block"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"siz",
+				"Snippet: media_size"
+			],
+			[
+				"na",
+				"Snippet: bs3-navbar"
+			],
+			[
+				"nav",
+				"Snippet: bs3-navbar"
+			],
+			[
+				"tabs",
+				"Snippet: bs3-tabs"
+			],
+			[
+				"meid",
+				"Snippet: bs3-media-object"
+			],
+			[
+				"tab",
+				"Snippet: bs3-tabs"
+			],
+			[
+				"paster",
+				"Paste Repeater"
+			],
+			[
+				"pri",
+				"Snippet: bs3-lg-button-primary"
+			],
+			[
+				"fro1",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"btnpr",
+				"Snippet: bs3-lg-button-primary"
+			],
+			[
+				"carous",
+				"Snippet: bs3-carousel"
+			],
+			[
+				"fro",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"sor",
+				"Sort Lines"
+			],
+			[
+				"ge",
+				"Tag: Get CSS Classes"
+			],
+			[
+				"table",
+				"Snippet: bs3-table-condensed"
+			],
+			[
+				"car",
+				"Snippet: bs3-carousel"
+			],
+			[
+				"caro",
+				"Snippet: bs3-carousel"
+			],
+			[
+				"set css",
+				"Set Syntax: CSS"
+			],
+			[
+				"g",
+				"Tag: Get CSS Classes"
+			],
+			[
+				"footer",
+				"Snippet: bs3-panel-footer"
+			],
+			[
+				"prim",
+				"Snippet: bs3-lg-button-primary"
+			],
+			[
+				"carus",
+				"Snippet: bs3-carousel"
+			],
+			[
+				"ju",
+				"Snippet: bs3-jumbotron"
+			],
+			[
+				"tem",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"sub-",
+				"Snippet: Idiomatic CSS - Sub-Section Comment Block"
+			],
+			[
+				"prefi",
+				"Autoprefix CSS"
+			],
+			[
+				"for",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"rep",
+				"Paste Repeater"
+			],
+			[
+				"fomrin",
+				"Snippet: bs3-form-inline"
+			],
+			[
+				"for1",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"linkde",
+				"Snippet: bs3-mini-link-button-default"
+			],
+			[
+				"btnpri",
+				"Snippet: bs3-sm-button-primary"
+			],
+			[
+				"sub",
+				"Snippet: Idiomatic CSS - Sub-Section Comment Block"
+			],
+			[
+				"subl",
+				"SublimeLinter: Clear Caches"
+			],
+			[
+				"comme",
+				"Snippet: Idiomatic CSS - Sub-Section Comment Block"
+			],
+			[
+				"wr",
+				"Snippet: wrap_css"
+			],
+			[
+				"wra",
+				"Snippet: wrap_css"
+			],
+			[
+				"panel",
+				"Snippet: bs3-panel"
+			],
+			[
+				"pane",
+				"Snippet: bs3-panel"
+			],
+			[
+				"pan",
+				"Snippet: bs3-panel"
+			],
+			[
+				"form1",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"from1",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"SCSS",
+				"Set Syntax: SCSS"
+			],
+			[
+				"panel\t",
+				"Snippet: bs3-panel-footer"
+			],
+			[
+				"thum",
+				"Snippet: bs3-thumbnail-content"
+			],
+			[
+				"cas",
+				"Convert Case: Lower Case"
+			],
+			[
+				"img",
+				"Snippet: bs3-image"
+			],
+			[
+				"form",
+				"Snippet: bs3-form-inline"
+			],
+			[
+				"temla",
+				"Snippet: bs3-template.starter"
+			],
+			[
+				"btninfo",
+				"Snippet: bs3-link-button-info"
+			],
+			[
+				"btnprim",
+				"Snippet: bs3-link-button-primary"
+			],
+			[
+				"sele",
+				"Snippet: bs3-input-select-h"
+			],
+			[
+				"inli",
+				"Snippet: bs3-form-inline"
+			],
+			[
+				"navbar",
+				"Snippet: bs3-navbar-link"
+			],
+			[
+				"nab",
+				"Snippet: bs3-navbar-link"
+			],
+			[
+				"dome",
+				"Snippet: changeDomen"
+			],
+			[
+				"med",
+				"Snippet: media_size"
+			],
+			[
+				"register",
+				"Snippet: Register Taxonomy All Options"
+			],
+			[
+				"chang",
+				"Changelog"
+			],
+			[
+				"from",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"nwe",
+				"Snippet: newwpquery"
+			],
+			[
+				"els",
+				"Snippet: <?php else: ?>"
+			],
+			[
+				"else",
+				"Snippet: <?php else: ?>"
+			],
+			[
+				"loo",
+				"Snippet: newWPloop"
+			],
+			[
+				"mei",
+				"Snippet: media_size"
+			],
+			[
+				"moda",
+				"Snippet: bs3-modal"
+			],
+			[
+				"bloc",
+				"Snippet: bs3-block-link-button-primary"
+			],
+			[
+				"thu",
+				"Snippet: bs3-thumbnail-content"
+			],
+			[
+				"ale",
+				"Snippet: bs3-alert-warning"
+			],
+			[
+				"alr",
+				"Snippet: bs3-alert-danger"
+			],
+			[
+				"aler",
+				"Snippet: bs3-alert"
+			],
+			[
+				"brea",
+				"Snippet: bs3-breadcrumbs"
+			],
+			[
+				"lin",
+				"Snippet: bs3-link-button-primary"
+			],
+			[
+				"meida",
+				"Snippet: bs3-media-object"
+			],
+			[
+				"caruo",
+				"Snippet: bs3-carousel"
+			],
+			[
+				"link",
+				"Snippet: bs3-link-button-primary"
+			],
+			[
+				"prima",
+				"Snippet: bs3-lg-button-primary"
+			],
+			[
+				"fak",
+				"Snippet: fakeimg"
+			],
+			[
+				"che",
+				"Snippet: bs3-input-checkbox"
+			],
+			[
+				"jub",
+				"Snippet: bs3-jumbotron"
+			],
+			[
+				"navlin",
+				"Snippet: bs3-navbar-link"
+			],
+			[
+				"md",
+				"Snippet: media_size"
+			],
+			[
+				"dom",
+				"Snippet: changeDomen"
+			],
+			[
+				"jq",
+				"Snippet: google_jquery"
+			],
+			[
+				"cdn",
+				"Snippet: bs3-cdn-js"
+			],
+			[
+				"titl",
+				"Convert Case: Title Case"
+			],
+			[
+				"succ",
+				"Snippet: bs3-lg-button-success"
+			]
+		],
+		"width": 540.0
+	},
+	"console":
+	{
+		"height": 683.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Александр/AppData/Roaming/Sublime Text 3/Packages/User/bs4"
+	],
+	"file_history":
+	[
+		"/D/projects/treehouse/app/app.js",
+		"/D/projects/treehouse/app/data/rooms.json",
+		"/D/projects/treehouse/app/js/widget.js",
+		"/C/Users/Александр/AppData/Roaming/Sublime Text 3/Packages/User/bs4/bs4-form-inline.sublime-snippet",
+		"/C/Users/Александр/AppData/Roaming/Sublime Text 3/Packages/User/bs4/bs4-form.sublime-snippet",
+		"/D/projects/treehouse/app/pet.js",
+		"/D/projects/treehouse/app/index.html",
+		"/C/Users/Александр/AppData/Local/Temp/Temp1_OOJS_Project_Files.zip/project files/stage3/Video 1/pets.js",
+		"/D/projects/treehouse/pet.js",
+		"/C/Users/Александр/Desktop/acf-export-2018-08-17.json",
+		"/C/Users/Александр/AppData/Local/Temp/fz3temp-3/page.php",
+		"/C/Users/Александр/AppData/Local/Temp/fz3temp-3/tmpl-home.php",
+		"/D/projects/treehouse/app/example2.html",
+		"/D/projects/treehouse/app/css/style.css",
+		"/D/projects/mj/src/index.html",
+		"/D/projects/treehouse/gulpfile.js",
+		"/D/projects/mj/gulpfile.js",
+		"/D/projects/mj/src/javascripts/main.js",
+		"/C/Users/Александр/AppData/Local/Temp/Temp1_4-responding-to-user-interaction (1).zip/4-responding-to-user-interaction/vid-2-functions-as-parameters/start/app.js",
+		"/C/Users/Александр/AppData/Local/Temp/Temp1_4-responding-to-user-interaction.zip/4-responding-to-user-interaction/vid-5-event-bubbling-and-delegation/start/app.js",
+		"/D/projects/treehouse/package.json",
+		"/D/projects/mj/src/perila.html",
+		"/D/projects/mj/src/todo.todo",
+		"/D/projects/mj/src/old.js",
+		"/D/projects/test1/src/components/TestPage.html",
+		"/D/projects/test1/src/components/TestPage.less",
+		"/D/projects/test1/public/index.html",
+		"/D/projects/mj/src/home.html",
+		"/C/Users/Александр/AppData/Local/Temp/fz3temp-2/functions.php",
+		"/C/Users/Александр/AppData/Local/Temp/fz3temp-2/header.php",
+		"/C/Users/Александр/AppData/Local/Temp/fz3temp-2/footer.php",
+		"/C/Users/Александр/AppData/Local/Temp/fz3temp-2/style.css",
+		"/C/Users/Александр/AppData/Local/Temp/fz3temp-2/script.js",
+		"/D/projects/mj/src/lestnica.html",
+		"/D/projects/mj/src/stylesheets/main.scss",
+		"/D/projects/mj/src/hud-kovka.html",
+		"/C/Users/Александр/AppData/Local/Temp/fz3temp-3/script.js",
+		"/C/Users/Александр/AppData/Local/Temp/fz3temp-3/footer.php",
+		"/C/Users/Александр/AppData/Local/Temp/fz3temp-3/search.php",
+		"/C/Users/Александр/AppData/Local/Temp/fz3temp-3/functions.php",
+		"/C/Users/Александр/AppData/Local/Temp/fz3temp-3/style.css",
+		"/C/Users/Александр/AppData/Local/Temp/fz3temp-3/homepage.php",
+		"/C/Users/Александр/AppData/Local/Temp/fz3temp-5/send.php",
+		"/D/projects/mj/src/stylesheets/_default.scss",
+		"/D/projects/mj/dist/send.php",
+		"/D/projects/mj/src/images/star.svg",
+		"/D/projects/mj/src/stylesheets/_vars.scss",
+		"/D/projects/mj/src/stylesheets/_slick-theme.scss",
+		"/C/Users/Александр/AppData/Local/Temp/fz3temp-5/index.html",
+		"/C/Users/Александр/AppData/Local/Temp/fz3temp-2/wp-blog-header.php",
+		"/C/Users/Александр/AppData/Local/Temp/fz3temp-2/wp-config.php",
+		"/C/Users/Александр/AppData/Local/Temp/fz3temp-2/.htaccess",
+		"/C/Users/Александр/AppData/Local/Temp/fz3temp-2/index.php",
+		"/C/xampp/htdocs/delete_new/wp-content/themes/delete-new/functions.php",
+		"/E/Webservers/home/meetmatch/www/wp-content/themes/h-code-child/functions.php",
+		"/E/Webservers/httpdocs/config.core.php",
+		"/C/xampp/htdocs/noiseevent/wp-content/themes/ventcamp-child/vc-custom-elements.php",
+		"/C/xampp/htdocs/noiseevent/wp-content/themes/ventcamp-child/todo.todo",
+		"/C/xampp/htdocs/noiseevent/wp-content/themes/ventcamp-child/header.php",
+		"/C/xampp/htdocs/delete_new/wp-content/themes/delete-new/vc-custom-elements.php",
+		"/C/Users/Александр/AppData/Local/Temp/fz3temp-5/footer.php",
+		"/C/xampp/htdocs/noiseevent/wp-content/themes/ventcamp-child/functions.php",
+		"/C/Users/Александр/AppData/Local/Temp/fz3temp-5/functions.php",
+		"/C/xampp/htdocs/noiseevent/wp-content/themes/ventcamp-child/footer.php",
+		"/C/xampp/htdocs/delete_new/wp-content/themes/delete-new/vc_templates/vc_accordion.php",
+		"/E/Webservers/home/meetmatch/www/wp-content/themes/h-code-child/vc-custom-elements.php",
+		"/C/xampp/htdocs/bulldesign/wp-content/themes/bull/functions.js",
+		"/C/xampp/htdocs/bulldesign/wp-content/themes/bull/functions.php",
+		"/C/Users/Александр/AppData/Local/Temp/fz3temp-1/jquery.countdown.min.js",
+		"/C/Users/Александр/AppData/Local/Temp/fz3temp-1/button2.css",
+		"/C/Users/Александр/AppData/Local/Temp/fz3temp-1/content-hero.php",
+		"/C/xampp/htdocs/noiseevent/wp-content/themes/ventcamp-child/content-hero.php",
+		"/C/xampp/htdocs/noiseevent/wp-content/themes/ventcamp-child/button2.css",
+		"/C/xampp/htdocs/noiseevent/wp-content/themes/ventcamp-child/button.css",
+		"/C/xampp/htdocs/noiseevent/wp-content/themes/ventcamp-child/index.php",
+		"/C/xampp/htdocs/noiseevent/wp-content/themes/ventcamp-child/searchform.php",
+		"/C/xampp/htdocs/noiseevent/wp-content/themes/ventcamp-child/single.php",
+		"/C/xampp/htdocs/noiseevent/wp-content/themes/ventcamp-child/style.scss",
+		"/C/xampp/htdocs/noiseevent/wp-config.php",
+		"/C/xampp/htdocs/noiseevent/wp-content/themes/ventcamp-child/js/custom.js",
+		"/C/Users/Александр/AppData/Local/Temp/fz3temp-1/wp-config.php",
+		"/C/xampp/htdocs/bulldesign/wp-config.php",
+		"/D/Plitkamillenium/актульаное/Обои/Свойства/Страны.csv",
+		"/C/Users/Александр/AppData/Local/Temp/fz3temp-4/.htaccess",
+		"/C/Users/Александр/AppData/Local/Temp/fz3temp-4/class.wp-styles.php",
+		"/C/Users/Александр/AppData/Local/Temp/fz3temp-4/footer 3.php",
+		"/C/xampp/htdocs/noiseevent/wp-content/themes/ventcamp/footer.php",
+		"/C/Users/Александр/AppData/Local/Temp/fz3temp-4/footer 2.php",
+		"/C/Users/Александр/AppData/Local/Temp/fz3temp-4/wz300us8virusdie.php",
+		"/C/xampp/htdocs/delete_new/wp-content/themes/delete-new/footer.php",
+		"/C/Users/Александр/AppData/Local/Temp/fz3temp-4/style.css",
+		"/C/Users/Александр/AppData/Local/Temp/fz3temp-4/homepage.php",
+		"/C/Users/Александр/AppData/Local/Temp/fz3temp-4/footer.php",
+		"/C/Users/Александр/AppData/Local/Temp/fz3temp-4/index.html",
+		"/C/xampp/htdocs/delete_new/wp-content/themes/delete-new/homepage.php",
+		"/C/xampp/htdocs/delete_new/wp-content/themes/delete-new/css/style.scss",
+		"/C/xampp/htdocs/delete_new/wp-content/themes/delete-new/single-doctor.php",
+		"/C/xampp/htdocs/delete_new/wp-content/themes/delete-new/header.php",
+		"/C/xampp/htdocs/delete_new/wp-content/themes/delete-new/part/feed.php",
+		"/C/xampp/htdocs/delete_new/wp-content/themes/delete-new/archive-doctor.php",
+		"/C/xampp/htdocs/delete_new/wp-content/themes/delete-new/archive-service.php",
+		"/C/xampp/htdocs/delete_new/wp-content/themes/delete-new/index.php",
+		"/C/xampp/htdocs/delete_new/wp-content/themes/delete-new/single.php",
+		"/C/xampp/htdocs/delete_new/wp-content/themes/delete-new/todo.todo",
+		"/C/Users/Александр/AppData/Local/Temp/fz3temp-3/index.html",
+		"/Z/home/delete_new/www/wp-content/themes/delete-new/header.php",
+		"/Z/home/delete_new/www/wp-content/themes/delete-new/vc-custom-elements.php",
+		"/Z/home/delete_new/www/wp-content/themes/delete-new/css/style.css",
+		"/Z/home/delete_new/www/wp-content/themes/delete-new/service-2.html",
+		"/Z/home/delete_new/www/wp-content/themes/delete-new/doctor.html",
+		"/Z/home/delete_new/www/wp-content/themes/delete-new/search.php",
+		"/Z/home/delete_new/www/wp-content/themes/delete-new/template-parts/content.php",
+		"/Z/home/delete_new/www/wp-content/themes/delete-new/footer.php",
+		"/Z/home/delete_new/www/wp-content/themes/delete-new/index.html",
+		"/Z/home/delete_new/www/wp-content/themes/delete-new/blogview.html",
+		"/Z/home/delete_new/www/wp-content/themes/delete-new/functions.php",
+		"/Z/home/delete_new/www/wp-content/themes/delete-new/single-doctor.php",
+		"/Z/home/delete_new/www/wp-content/themes/delete-new/archive.php",
+		"/Z/home/delete_new/www/wp-content/themes/delete-new/arhcive-doctor.php",
+		"/Z/home/delete_new/www/wp-content/themes/delete-new/blog.php",
+		"/Z/home/delete_new/www/wp-content/themes/delete-new/single-service.php",
+		"/Z/home/delete_new/www/wp-content/themes/delete-new/style.css",
+		"/Z/home/delete_new/www/wp-content/themes/delete-new/part/services.php",
+		"/Z/home/delete_new/www/wp-content/themes/delete-new/homepage.php",
+		"/Z/home/delete_new/www/wp-content/themes/delete-new/todo.todo",
+		"/Z/home/delete_new/www/wp-content/themes/delete-new/vc_templates/vc_accordion.php",
+		"/Z/home/delete_new/www/wp-content/plugins/js_composer/include/templates/shortcodes/vc_accordion_tab.php",
+		"/Z/home/delete_new/www/wp-content/plugins/js_composer/config/tta/shortcode-vc-tta-accordion.php"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 156.0,
+		"where_history":
+		[
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"<project>",
+			"<open files>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" animal: 'dog',",
+			"name",
+			"logCars",
+			";",
+			"get_field('ссылка_акции'); ?>",
+			"_field('ссылка_акции'); ?>",
+			"_акции'); ?>",
+			"image",
+			"РЕЗУЛЬТАТЫ ЛЕЧЕНИЯ",
+			"Результаты лечения",
+			"РЕЗУЛЬТАТЫ ЛЕЧЕНИЯ",
+			"var",
+			"parent",
+			"section ",
+			"section",
+			"roomHTML",
+			"roomsHTML",
+			"script",
+			"uppendChild",
+			"aatachListItemsButtons",
+			"up",
+			" remove = document.createElement('button');\n    up",
+			"up",
+			"<button class=\"up\">Up</button><button class=\"down\">Down</button> <button class=\"remove\">",
+			"nextLi",
+			"prevLi",
+			"  console.log(prevLi);",
+			"<button class=\"up\">Up</button>",
+			"<button>Remove</button>",
+			"</li>",
+			"[i]",
+			"listItems[i]",
+			"()",
+			"listItems[i].addEvent",
+			"listItems",
+			"istItems",
+			"})",
+			"gulp",
+			"['sass']",
+			"AddItemButton",
+			"AddItemInput",
+			"');\n",
+			"list",
+			"errorNotYellow",
+			"error",
+			"list",
+			"error",
+			"li>",
+			"ul",
+			"html",
+			"getElementById",
+			"$",
+			"wrong",
+			"correct",
+			"Correct",
+			"correct",
+			"i ",
+			"i",
+			"item",
+			"pe(uglify(",
+			"ugl",
+			"uglify())",
+			"Things",
+			"{",
+			"Math.floor(Math.random() * 256 );",
+			"num",
+			"block_4_left_1",
+			".box_achieve",
+			".block_4_right_1 img",
+			".servicepay-count-val",
+			"30px",
+			"30",
+			".caret-right",
+			".caret-right ",
+			"pull-righ",
+			"-righ",
+			"append",
+			"caret-righ",
+			"transparent",
+			"> a",
+			"caret-right",
+			"-item-has-childr",
+			"children",
+			"get-call hidden-lg",
+			"nav",
+			"lb_wrapper",
+			".blogview-fromto-slider .slick-next",
+			".blogview-fromto-slider .slick-prev, .blogview-fromto-slider .slick-next",
+			"excerpt",
+			"tab",
+			"Москва, Московский пр., д. 155",
+			"data-caption=\"о",
+			" data-caption=\"описание",
+			"<a href=\"#s1\">Изделия</a>",
+			"=\"anchor\" id=\"s1\"",
+			"d=\"s1\"></",
+			"ass=\"anchor\" id=\"s1\"></div>",
+			"Каталог продукции",
+			"chor\" id=\"s1\"",
+			"s3",
+			"lead",
+			"vsttm-work-1",
+			"jumbotron",
+			"jumbotron ",
+			",",
+			"</a> </li>",
+			"\n",
+			"-",
+			" ",
+			"\n#",
+			" #",
+			"#",
+			" #",
+			"телефон",
+			"<div id=\"s",
+			"\t<p class=\"advantage_text\">В процессе производства мы используем качественные и надежные материалы, чтобы готовое изделие прослужило вам не одно десятилетие.</p>",
+			"tinypng",
+			"<form ",
+			"form",
+			"\t<input type=\"",
+			"id=\"input",
+			"work",
+			"self-item",
+			".self-item",
+			"col-sm-3",
+			"data-caption=\"Работа Анны Разумеевой instagram: @annabile",
+			"fas fa-eye\"></i></div><img src=\"images/",
+			"img src=\"images/pholio/razumeeva_thumb"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Химки, Сходня",
+			"<a href=\"#s1\">Цены</a>",
+			"Примерные цены",
+			"Tattoo",
+			"%20",
+			"\\1",
+			"ПОЛУЧИТЬ КОНСУЛЬТАЦИЮ <br class=\"visible-xs\"> ЧЕРЕЗ 30 СЕКУНД",
+			"<div class=\"page-content page-template-\">",
+			",",
+			"150",
+			",",
+			"<?php get_footer( ); ?>",
+			"<?php get_header( ); ?>",
+			"",
+			" 3 kommenetar",
+			"col-md-6",
+			"col-sm-6",
+			"src=\"<?php bloginfo('template_url') ?>/js",
+			"get_footer();\n",
+			"<main id=\"main\" class=\"site-main container\" role=\"main\">",
+			"<div class=\"prod_thumb_holder\">\n\t\t\t<img src=\"https://api.fnkr.net/testimg/165x165/00CED1/FFF/\" alt=\"здесь вывоится альт\" class=\"prod_thumb\">\n\t\t\t\t\t\t</div>",
+			"<div class=\"col-md-10 col-md-offset-1\">",
+			"search",
+			"240x200",
+			"",
+			"cart-table",
+			"<div class=\"webshop wow fadeInUp\" data-wow-delay=\"1.5s\">",
+			"<div class=\"webshop wow fadeInUp\" data-wow-delay=\"1.5s\"",
+			"<title><?php wp_title('|', true, 'right'); ?></title>",
+			"",
+			"Seromax",
+			" ",
+			"Seromax",
+			"spec_wear",
+			"col-xs-12 col-sm-6 col-md-4",
+			"'",
+			"Seromax",
+			"manager_text",
+			"dutchtrans",
+			"DutchTrans",
+			"http://{$domain}/mail_img/",
+			"DutchTrans",
+			"dutchtrans.co.uk",
+			"images/komplect/",
+			"Seromax",
+			".content-pane",
+			"спецификация",
+			",/n",
+			"href=\"electric",
+			"\\n",
+			"",
+			"$lang['electrical",
+			"",
+			"Seromax",
+			"http://mexprom.ru/images/",
+			"http://mexprom.ru/images/tokarnaya_obr",
+			"http://mexprom.ru/images/prod",
+			"http://mexprom.ru/images/tokarnaya",
+			"$lang['metall ']",
+			"http://www.seromax-catalog.ru",
+			"http://www.seromax.ru",
+			"+7 831 411 55 55",
+			"spec_wear",
+			"11webgallerydisplay.com/image",
+			"http://webgallerydisplay1.com/image",
+			"<?php include 'header.php'; ?>",
+			"",
+			"contact us",
+			"'Open Sans Condensed'",
+			"'Open Sans Condensed',",
+			"']; ?></h1>",
+			"<h1><?php echo $lang['",
+			"(?:<h1>)11(?:</h1>)",
+			"(?:<h1><?php)([\\s\\S]+?1)(?:</h1>)",
+			"(?:<h1>)([\\s\\S]+?1)(?:</h1>)",
+			"(?:<h1>)2([\\s\\S]+?)2(?:</h1>)",
+			"<?php echo $lang['Request a Quote']; ?>",
+			"<?php echo get_stylesheet_directory_uri(); ?>",
+			"template_url",
+			"SEROMAX",
+			"SEROMAX ",
+			"SEROMAX",
+			"titanium.php",
+			".php",
+			"Seromax",
+			"+78314115555",
+			"+7 (831) 411 55 55",
+			"Seromax",
+			"welding.php",
+			"(499) 999-8899",
+			"9998999",
+			"seromax.ru",
+			"$blue",
+			"$rose",
+			"002b52",
+			"=\"1lib/",
+			"lib/",
+			"src=\"./js/",
+			"src=\"js/",
+			"c=\"../lib/",
+			"/www/",
+			"ima",
+			"src=\"lib/",
+			"$primary",
+			"label  data-toggle=\"tooltip\" data-placement=\"bottom\" title=\"How To Protect Your Computer Wery Useful Tips\"  for=\"radio-",
+			"",
+			"darken($primary, 20%)",
+			"lighten($primary, 10%)",
+			"lighten($primary, 5%)",
+			"darken($primary, 5%)",
+			"$primary",
+			"choice",
+			"section-1",
+			"EOL EOL",
+			"How To Protect Your Computer Wery Useful Tips",
+			"pills_list",
+			"pills_list+",
+			"carousel-pholio",
+			"",
+			".php",
+			"<?php include 'header.php'; ?>",
+			"<?php include 'footer.php'; ?>",
+			"<?php include('footer'); ?>",
+			"",
+			"123_1",
+			"123_",
+			"123__123",
+			"<li><a href=\"products.html\" >Products</a></li>\n\n\t\t<li><a href=\"services.html\" >Services</a></li>\n\n\t\t<li><a href=\"about.html\" >About</a></li>\n\n\t\t<li><a href=\"projects.html\" >Projects</a></li>\n\n\t\t<li><a href=\"locations.html\" >Locations</a></li>\n\n\t\t<li><a href=\"contact_us.html\" >Contact Us</a></li>\n\n\t\t<li><a href=\"sitemap.html\" >Site Map</a></li>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "bs4-accordion.sublime-snippet",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3478,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1145,
+								1145
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"incomplete_sync": null,
+							"is_xml": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 90.0
+	},
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 88.0
+	},
+	"pinned_build_system": "Packages/SASS Build/SASS.sublime-build",
+	"project": "bootstrap-4-snippets.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"roo",
+				"app\\data\\rooms.json"
+			],
+			[
+				"wid",
+				"app\\js\\widget.js"
+			],
+			[
+				"peril",
+				"perila.html"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"main",
+				"stylesheets\\main.scss"
+			],
+			[
+				"les",
+				"lestnica.html"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"slic",
+				"stylesheets\\_slick-theme.scss"
+			],
+			[
+				"var",
+				"stylesheets\\_vars.scss"
+			],
+			[
+				"star",
+				"images\\star.svg"
+			],
+			[
+				"def",
+				"stylesheets\\_default.scss"
+			],
+			[
+				"mai",
+				"stylesheets\\main.scss"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"foot",
+				"ventcamp-child\\footer.php"
+			],
+			[
+				"funct",
+				"ventcamp-child\\functions.php"
+			],
+			[
+				"func",
+				"ventcamp-child\\functions.php"
+			],
+			[
+				"todo",
+				"ventcamp-child\\todo.todo"
+			],
+			[
+				"butn",
+				"ventcamp-child\\button.css"
+			],
+			[
+				"header",
+				"ventcamp-child\\header.php"
+			],
+			[
+				"indx",
+				"index.php"
+			],
+			[
+				"head",
+				"header.php"
+			],
+			[
+				"footer",
+				"delete-new\\footer.php"
+			],
+			[
+				"heade",
+				"delete-new\\header.php"
+			],
+			[
+				"sty",
+				"delete-new\\css\\style.css"
+			],
+			[
+				"singe",
+				"delete-new\\single-doctor.php"
+			],
+			[
+				"docto",
+				"delete-new\\doctor.html"
+			],
+			[
+				"sing",
+				"delete-new\\single-doctor.php"
+			],
+			[
+				"fun",
+				"delete-new\\functions.php"
+			],
+			[
+				"he",
+				"delete-new\\header.php"
+			],
+			[
+				"serv",
+				"delete-new\\service-2.html"
+			],
+			[
+				"ser",
+				"delete-new\\service-2.html"
+			],
+			[
+				"archvi",
+				"delete-new\\archive.php"
+			],
+			[
+				"doc",
+				"delete-new\\single-doctor.php"
+			],
+			[
+				"fu",
+				"delete-new\\functions.php"
+			],
+			[
+				"ar",
+				"delete-new\\archive.php"
+			],
+			[
+				"blog",
+				"delete-new\\blog.php"
+			],
+			[
+				"conte",
+				"delete-new\\template-parts\\content.php"
+			],
+			[
+				"sear",
+				"delete-new\\search.php"
+			],
+			[
+				"tood",
+				"delete-new\\todo.todo"
+			],
+			[
+				"",
+				"delete-new\\service-2.html"
+			],
+			[
+				"funt",
+				"delete-new\\functions.php"
+			],
+			[
+				"cus",
+				"delete-new\\vc-custom-elements.php"
+			],
+			[
+				"acoo",
+				"delete-new\\vc_templates\\vc_accordion.php"
+			],
+			[
+				"index",
+				"delete-new\\index.html"
+			],
+			[
+				"v",
+				"delete-new\\vc-custom-elements.php"
+			],
+			[
+				"hea",
+				"delete-new\\header.php"
+			],
+			[
+				"pag",
+				"delete-new\\page.php"
+			],
+			[
+				"er",
+				"delete-new\\erase.html"
+			],
+			[
+				"con",
+				"delete-new\\contacts.php"
+			],
+			[
+				"page",
+				"delete-new\\page.php"
+			],
+			[
+				"eq",
+				"delete-new\\equipment.html"
+			],
+			[
+				"arc",
+				"delete-new\\archive.php"
+			],
+			[
+				"e",
+				"delete-new\\equipment.html"
+			],
+			[
+				"scr",
+				"delete-new\\js\\script.js"
+			],
+			[
+				"p",
+				"delete-new\\page.php"
+			],
+			[
+				"s",
+				"delete-new\\searchform.php"
+			],
+			[
+				"serch",
+				"delete-new\\search.php"
+			],
+			[
+				"blo",
+				"delete-new\\blog.html"
+			],
+			[
+				"pa",
+				"delete-new\\page.php"
+			],
+			[
+				"acc",
+				"js_composer\\include\\classes\\shortcodes\\vc-accordion-tab.php"
+			],
+			[
+				"sea",
+				"search.php"
+			],
+			[
+				"ho",
+				"picosure\\homepage.php"
+			],
+			[
+				"headr",
+				"picosure\\header.php"
+			],
+			[
+				"tech",
+				"tech.html"
+			],
+			[
+				"mani",
+				"stylesheets\\main.scss"
+			],
+			[
+				"tod",
+				"todo.todo"
+			],
+			[
+				"res",
+				"stylesheets\\responisive.scss"
+			],
+			[
+				"feed",
+				"feed.html"
+			],
+			[
+				"prof",
+				"profit.html"
+			],
+			[
+				"main.s",
+				"src\\stylesheets\\main.scss"
+			],
+			[
+				"vars",
+				"src\\stylesheets\\_vars.scss"
+			],
+			[
+				"vari",
+				"bower_components\\bootstrap-sass\\assets\\stylesheets\\bootstrap\\_variables.scss"
+			],
+			[
+				"variab",
+				"src\\stylesheets\\awesome\\_variables.scss"
+			],
+			[
+				"fee",
+				"src\\feed.html"
+			],
+			[
+				"fon",
+				"src\\fonts\\fonts.css"
+			],
+			[
+				"font",
+				"dist\\fonts\\fonts.css"
+			],
+			[
+				"t",
+				"dist\\tech.html"
+			],
+			[
+				"gul",
+				"gulpfile.js"
+			],
+			[
+				"m",
+				"stylesheets\\main.scss"
+			],
+			[
+				"pri",
+				"pricing.html"
+			],
+			[
+				"how",
+				"how.html"
+			],
+			[
+				"soo",
+				"soon.html"
+			],
+			[
+				"slid",
+				"parts\\slides.html"
+			],
+			[
+				"ine",
+				"index.html"
+			],
+			[
+				"st",
+				"style.css"
+			],
+			[
+				"price",
+				"price.php"
+			],
+			[
+				"sin",
+				"single-product.php"
+			],
+			[
+				"foote",
+				"footer.php"
+			],
+			[
+				"contacts",
+				"contacts.php"
+			],
+			[
+				"home",
+				"homepage.php"
+			],
+			[
+				"hom",
+				"homepage.php"
+			],
+			[
+				"gallery",
+				"gallery.html"
+			],
+			[
+				"tea",
+				"teachers.php"
+			],
+			[
+				"cae",
+				"category.html"
+			],
+			[
+				"cat",
+				"catalog.html"
+			],
+			[
+				"te",
+				"teachers.html"
+			],
+			[
+				"cms",
+				"cms.html"
+			],
+			[
+				"sid",
+				"sidebar.php"
+			],
+			[
+				"style",
+				"style.css"
+			],
+			[
+				"foto",
+				"parts\\footer.html"
+			],
+			[
+				"gall",
+				"src\\gallery.html"
+			],
+			[
+				"gal",
+				"dist\\gallery.html"
+			],
+			[
+				"cate",
+				"src\\category.html"
+			],
+			[
+				"main.js",
+				"src\\javascripts\\main.js"
+			],
+			[
+				"indxe",
+				"src\\index.html"
+			],
+			[
+				"forum",
+				"forum-inner.html"
+			],
+			[
+				"bl",
+				"blog-inner.html"
+			],
+			[
+				"man",
+				"stylesheets\\main.scss"
+			],
+			[
+				"hund",
+				"hunderacer.html"
+			],
+			[
+				"ann",
+				"annonce-inner.html"
+			],
+			[
+				"ko",
+				"konto-profil.html"
+			],
+			[
+				"k",
+				"konto-fav.html"
+			],
+			[
+				"ste",
+				"konto-step2.html"
+			],
+			[
+				"a",
+				"annoncer.html"
+			],
+			[
+				"foru",
+				"forum-inner.html"
+			],
+			[
+				"fou",
+				"forum.html"
+			],
+			[
+				"ga",
+				"gallery.html"
+			],
+			[
+				"2",
+				"konto-step2.html"
+			],
+			[
+				"cm",
+				"cms.html"
+			],
+			[
+				"casin",
+				"case-inner.html"
+			],
+			[
+				"galle",
+				"gallery.html"
+			],
+			[
+				"ca",
+				"case-answer.html"
+			],
+			[
+				"cas",
+				"case-answer.html"
+			],
+			[
+				"hu",
+				"hunderacer-inner.html"
+			],
+			[
+				"ma",
+				"stylesheets\\main.scss"
+			],
+			[
+				"kon",
+				"konto-fav.html"
+			],
+			[
+				"case",
+				"case.html"
+			],
+			[
+				"sm",
+				"parts\\sm-search.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ser",
+				"C:\\xampp\\htdocs\\serious\\wp-content\\themes\\understrap-child\\serious.sublime-project"
+			],
+			[
+				"",
+				"D:\\projects\\evgen\\src\\evgen.sublime-project"
+			],
+			[
+				"zz",
+				"Z:\\home\\zzesto\\www\\wp-content\\themes\\zzesto\\zzesto.sublime-project"
+			],
+			[
+				"pl",
+				"D:\\project\\plitka\\src\\plitka.sublime-project"
+			],
+			[
+				"p",
+				"D:\\project\\plitka\\src\\plitka.sublime-project"
+			],
+			[
+				"pli",
+				"D:\\project\\plitka\\src\\plitka.sublime-project"
+			],
+			[
+				"v",
+				"D:\\project\\Viajestours\\voyaje.sublime-project"
+			],
+			[
+				"av",
+				"D:\\project\\aveda_landing\\src\\aveda.sublime-project"
+			],
+			[
+				"ges",
+				"Z:\\home\\gestion\\www\\wp-content\\themes\\gestion\\gestion.sublime-project"
+			],
+			[
+				"da",
+				"Z:\\home\\dat\\DAT.sublime-project"
+			],
+			[
+				"dat",
+				"Z:\\home\\dat\\DAT.sublime-project"
+			],
+			[
+				"html",
+				"C:\\Users\\Александр\\Desktop\\project_links\\htmlbear.sublime-project"
+			],
+			[
+				"cre",
+				"Z:\\home\\dat\\www\\wp-content\\themes\\start-theme\\crem.sublime-project"
+			],
+			[
+				"tes",
+				"C:\\Users\\Александр\\Desktop\\project_links\\test.sublime-project"
+			],
+			[
+				"s",
+				"C:\\Users\\Александр\\Desktop\\project_links\\seromax.sublime-project"
+			],
+			[
+				"si",
+				"C:\\Users\\Александр\\Desktop\\project_links\\siteup.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 294.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

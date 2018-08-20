@@ -1,0 +1,4 @@
+<snippet>
+ <content><![CDATA[<button type="button" class="btn btn-primary btn-lg">Large button</button>]]></content>
+ <tabTrigger>bs4-btn-large</tabTrigger>
+</snippet>

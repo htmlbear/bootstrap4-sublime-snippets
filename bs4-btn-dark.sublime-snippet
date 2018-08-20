@@ -1,0 +1,4 @@
+<snippet>
+ <content><![CDATA[<button type="button" class="btn btn-dark">Dark</button>]]></content>
+ <tabTrigger>bs4-btn-dark</tabTrigger>
+</snippet>

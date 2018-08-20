@@ -1,0 +1,6 @@
+<snippet>
+ <content><![CDATA[   <span class="navbar-text">
+      Navbar text with an inline element
+    </span>]]></content>
+ <tabTrigger>bs4-navbar-text</tabTrigger>
+</snippet>

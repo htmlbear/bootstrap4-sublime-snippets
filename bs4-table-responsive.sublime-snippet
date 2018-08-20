@@ -1,0 +1,8 @@
+<snippet>
+ <content><![CDATA[<div class="table-responsive">
+  <table class="table">
+    ...
+  </table>
+</div>]]></content>
+ <tabTrigger>bs4-table-responsive</tabTrigger>
+</snippet>

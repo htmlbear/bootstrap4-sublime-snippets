@@ -1,0 +1,4 @@
+<snippet>
+ <content><![CDATA[<button type="button" class="btn btn-outline-light">Light</button>]]></content>
+ <tabTrigger>bs4-btn-outline-light</tabTrigger>
+</snippet>

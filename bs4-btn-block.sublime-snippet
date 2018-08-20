@@ -1,0 +1,4 @@
+<snippet>
+ <content><![CDATA[<button type="button" class="btn btn-primary btn-lg btn-block">Block level button</button>]]></content>
+ <tabTrigger>bs4-btn-block</tabTrigger>
+</snippet>

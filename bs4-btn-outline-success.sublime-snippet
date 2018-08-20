@@ -1,0 +1,4 @@
+<snippet>
+ <content><![CDATA[<button type="button" class="btn btn-outline-success">Success</button>]]></content>
+ <tabTrigger>bs4-btn-outline-success</tabTrigger>
+</snippet>

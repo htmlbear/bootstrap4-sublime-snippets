@@ -1,0 +1,4 @@
+<snippet>
+ <content><![CDATA[<button type="button" class="btn btn-lg btn-primary" disabled>Primary button</button>]]></content>
+ <tabTrigger>bs4-btn-disabled</tabTrigger>
+</snippet>

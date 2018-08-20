@@ -1,0 +1,4 @@
+<snippet>
+ <content><![CDATA[<button type="button" class="btn btn-primary btn-sm">Small button</button>]]></content>
+ <tabTrigger>bs4-btn-small</tabTrigger>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+ <content><![CDATA[  <div class="form-group">
+    <label for="exampleFormControlInput1">Email address</label>
+    <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+  </div>]]></content>
+ <tabTrigger>bs4-input-text-h</tabTrigger>
+</snippet>

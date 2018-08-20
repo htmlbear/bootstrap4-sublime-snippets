@@ -1,0 +1,4 @@
+<snippet>
+ <content><![CDATA[<input class="form-control form-control-lg" type="text" placeholder=".form-control-lg">]]></content>
+ <tabTrigger>bs4-input-lg</tabTrigger>
+</snippet>

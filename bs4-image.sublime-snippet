@@ -1,0 +1,4 @@
+<snippet>
+ <content><![CDATA[<img src="..." class="img-fluid" alt="Responsive image">]]></content>
+ <tabTrigger>bs4-image</tabTrigger>
+</snippet>

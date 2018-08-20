@@ -1,0 +1,4 @@
+<snippet>
+ <content><![CDATA[<span class="badge badge-dark">Dark</span>]]></content>
+ <tabTrigger>bs4-badge-dark</tabTrigger>
+</snippet>

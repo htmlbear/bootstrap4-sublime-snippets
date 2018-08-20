@@ -1,0 +1,4 @@
+<snippet>
+ <content><![CDATA[<button type="button" class="btn btn-secondary">Secondary</button>]]></content>
+ <tabTrigger>bs4-btn-secondary</tabTrigger>
+</snippet>
